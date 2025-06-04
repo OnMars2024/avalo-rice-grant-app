@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/avalo-rice-grant-app/static/css/main.f855e6bc.css",
-    "main.js": "/avalo-rice-grant-app/static/js/main.edb0b53e.js",
+    "main.js": "/avalo-rice-grant-app/static/js/main.d63762e0.js",
     "static/js/453.ed3810f9.chunk.js": "/avalo-rice-grant-app/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/avalo-rice-grant-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/avalo-rice-grant-app/index.html",
     "main.f855e6bc.css.map": "/avalo-rice-grant-app/static/css/main.f855e6bc.css.map",
-    "main.edb0b53e.js.map": "/avalo-rice-grant-app/static/js/main.edb0b53e.js.map",
+    "main.d63762e0.js.map": "/avalo-rice-grant-app/static/js/main.d63762e0.js.map",
     "453.ed3810f9.chunk.js.map": "/avalo-rice-grant-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.edb0b53e.js"
+    "static/js/main.d63762e0.js"
   ]
 }
